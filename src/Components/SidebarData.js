@@ -12,12 +12,12 @@ export const SidebarData = [
     {
         title:'Dashboard',
         icon: <DashboardIcon />,
-        link:'/dashboard'
+        link:'./dashboard'
     },
     {
         title:'Notifications',
         icon: <NotificationsIcon />,
-        link:'/notifications'
+        link:'./Pages/notification'
     },
     {
         title:'Announcement',
